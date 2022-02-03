@@ -5,3 +5,5 @@ here's the a workflow that will help you
 
 
 ![alt text](https://github.com/Crushoverride007/betterdiscord.alfredworkflow/BetterDiscord-Demo.gif "Demo")
+
+![](BetterDiscord-Demo.gif)
